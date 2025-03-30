@@ -1,0 +1,174 @@
+{
+  "products": [
+    {
+        "id": 1,
+        "brand": "Nike",
+        "title": "Air Max 270",
+        "price": 12999,
+        "oldPrice": 18499,
+        "image": "/images/shoes/nike-air-max.jpg",
+        "reviews": 148,
+        "isNew": true
+    },
+    {
+        "id": 2,
+        "brand": "Asics",
+        "title": "Asics Gel",
+        "price": 5490,
+        "oldPrice": 10980,
+        "image": "/images/shoes/asics-gel.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 3,
+        "brand": "Adidas",
+        "title": "Supernova Rise",
+        "price": 6999,
+        "oldPrice": 6999,
+        "image": "/images/shoes/Adidas-Supernova-Rise.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 4,
+        "brand": "Adidas ",
+        "title": "ZX 750",
+        "price": 9500,
+        "oldPrice": 0,
+        "image": "/images/shoes/Adidas-ZX-750.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 5,
+        "brand": "Nike",
+        "title": "Pegasus Plus",
+        "price": 4940,
+        "oldPrice": 9880,
+        "image": "/images/shoes/Nike-Pegasus-Plus.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 6,
+        "brand": "Reebok ",
+        "title": "LX-2200",
+        "price": 5270,
+        "oldPrice": 10540,
+        "image": "/images/shoes/Reebok-LX-2200.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 7,
+        "brand": "Puma",
+        "title": "Standart",
+        "price": 3200,
+        "oldPrice": 3200,
+        "image": "/images/shoes/Puma-standart.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 8,
+        "brand": "Puma",
+        "title": "Puma 180",
+        "price": 5490,
+        "oldPrice": 10980,
+        "image": "/images/shoes/Puma-180.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 9,
+        "brand": "Puma",
+        "title": "Puma 180",
+        "price": 5490,
+        "oldPrice": 10980,
+        "image": "/images/shoes/Puma-180.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 10,
+        "brand": "Asics",
+        "title": "Asics Gel",
+        "price": 5490,
+        "oldPrice": 10980,
+        "image": "/images/shoes/asics-gel.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 11,
+        "brand": "Adidas",
+        "title": "Supernova Rise",
+        "price": 6999,
+        "oldPrice": 6999,
+        "image": "/images/shoes/Adidas-Supernova-Rise.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 12,
+        "brand": "Adidas ",
+        "title": "ZX 750",
+        "price": 9500,
+        "oldPrice": 0,
+        "image": "/images/shoes/Adidas-ZX-750.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 13,
+        "brand": "Nike",
+        "title": "Pegasus Plus",
+        "price": 4940,
+        "oldPrice": 9880,
+        "image": "/images/shoes/Nike-Pegasus-Plus.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 14,
+        "brand": "Reebok ",
+        "title": "LX-2200",
+        "price": 5270,
+        "oldPrice": 10540,
+        "image": "/images/shoes/Reebok-LX-2200.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 15,
+        "brand": "Puma",
+        "title": "Standart",
+        "price": 3200,
+        "oldPrice": 3200,
+        "image": "/images/shoes/Puma-standart.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 16,
+        "brand": "Puma",
+        "title": "Puma 180",
+        "price": 5490,
+        "oldPrice": 10980,
+        "image": "/images/shoes/Puma-180.jpg",
+        "reviews": 0,
+        "isNew": true
+    },
+    {
+        "id": 17,
+        "brand": "Puma",
+        "title": "Puma 180",
+        "price": 5490,
+        "oldPrice": 10980,
+        "image": "/images/shoes/Puma-180.jpg",
+        "reviews": 0,
+        "isNew": true
+    }
+  ]
+}
